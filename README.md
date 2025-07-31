@@ -229,19 +229,7 @@ const contactSchema = z.object({
 
 ---
 
-## 📱 Screenshots
-
-### Desktop View
-<p align="center">
-  <img src="desktop-preview.png" alt="Desktop Preview" width="800"/>
-</p>
-
-### Mobile View
-<p align="center">
-  <img src="mobile-preview.png" alt="Mobile Preview" width="300"/>
-</p>
-
-### 3D Animations
+### Screen Animations
 <p align="center">
   <img src="3d-animations.gif" alt="3D Animations" width="600"/>
 </p>
